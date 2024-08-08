@@ -1,15 +1,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Rayyo App Changelog</title>
-    <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
     <language>es</language>
     <item>
-      <title>Version 4.0</title>
+      <title>Version 0.4.0</title>
       <link>https://sparkle-project.org</link>
-      <sparkle:version>4.0</sparkle:version>
+      <sparkle:version>0.4.0</sparkle:version>
       <pubDate>Mon, 25 Mar 2024</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.example.app" sparkle:version="4.0" sparkle:os="android" />
+      <enclosure url="https://play.google.com/store/apps/details?id=io.rayyo" sparkle:version="0.4.0" sparkle:os="android" />
       <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
