@@ -5,7 +5,7 @@
     <item>
       <title>Version 0.4.1</title>
       <link>https://sparkle-project.org</link>
-      <sparkle:version>0.4.1</sparkle:version>
+      <sparkle:version>0.4.0</sparkle:version>
       <pubDate>Mon, 25 Mar 2024</pubDate>
       <enclosure url="https://play.google.com/apps/internaltest/4701327656635027481" sparkle:version="0.4.1" sparkle:os="android" />
       <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
